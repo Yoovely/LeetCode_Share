@@ -1,3 +1,5 @@
-public class longestPrefix_yoolee {
-    
+class Solution {
+    public String longestCommonPrefix(String[] strs) {
+        
+    }
 }
